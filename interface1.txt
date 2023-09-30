@@ -1,0 +1,33 @@
+ANS 1 
+	interface is just like  class with difference that all the method in interface are by default public and abstract 
+	and all the variable in the interface are by default final and static. and we can't create the object of interface class 
+        An interface in Java is a mechanism that is used to achieve complete abstraction. It is basically a kind of
+	class that contains only constants and abstract methods.
+
+
+ANS 2
+	Only abstract and public modifiers are allowed for methods in interfaces.
+
+ANS 3
+	There are many reasons to use interfaces in java. They are as follows:
+
+	 1. An interface is used to achieve full abstraction.
+	 2. Using interfaces is the best way to expose our project’s API to some other project.
+	 3. By using interface, we can achieve the functionality of multiple inheritance.
+
+ANS 4
+
+	ABSTRACT CLASS							|				INTERFACE
+									|
+1	In abstract class we have abstract as well as nonabstract	| 1. In interface we have only abstract method 
+	method								|
+2.	abstract class doesn't support multiple inheritance		| 2. interface support multiple inheritance
+									|
+3.	child class use extends keyword to extends the abstract class 	| 3. child class use implements keywords to implements the behaviour and property of interface class
+									|
+4.	abstract class provide the implementation of interface		| 4. interface class doesn't provide the implemenation of abstract class
+									|
+5.	abstract keyword is used to declare the abstract class 		| 5. interface keyword is used to declare the interface class
+									|
+6.									|
+								
